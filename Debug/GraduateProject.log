@@ -1,0 +1,21 @@
+﻿  createTset.c
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\Head.h(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(4,34): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(4,70): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(30,19): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(30,19): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(31,23): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(31,23): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(50,18): warning C4013: 'AES_ECB_Encrypt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(95,23): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(95,23): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(96,25): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(96,25): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(97,18): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(97,18): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(100,17): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(100,17): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(6,21): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(105): warning C4172: 지역 변수 또는 임시: SecretKey의 주소를 반환하고 있습니다.
+  GraduateProject.vcxproj -> C:\Users\82109\source\repos\GraduateProject\Debug\GraduateProject.exe

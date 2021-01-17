@@ -1,0 +1,48 @@
+﻿  AES.c
+  createlarget.c
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createlarget.c(3,41): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createlarget.c(3,65): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+  createTset.c
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(3,24): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(3,59): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(17,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(44,18): warning C4013: 'AES_ECB_Encrypt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(62,17): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(62,17): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(5,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(15,6): warning C4101: 'KeyWordSize' :참조되지 않은 지역 변수입니다.
+  main.c
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(11,22): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(11,22): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(12,26): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(12,26): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(13,21): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(13,21): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(14,19): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(14,19): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(16,40): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(16,40): warning C4024: 'FileOpen': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(17,40): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(17,40): warning C4024: 'FileOpen': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(18,40): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(18,40): warning C4024: 'FileOpen': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(19,40): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(19,40): warning C4024: 'FileOpen': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(23,35): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(23,35): warning C4024: 'CreateLargeT': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(23,43): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [128][128]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(23,43): warning C4024: 'CreateLargeT': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(24,31): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [128][128]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(24,31): warning C4024: 'CreateTset': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(24,46): warning C4047: '함수': 'Pair **'의 간접 참조 수준이 'Pair [128][128]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(24,46): warning C4024: 'CreateTset': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(20,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(20,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(20,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(29,47): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\createTset.c(78): warning C4716: 'CreateTset': 값을 반환해야 합니다.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  GraduateProject.vcxproj -> C:\Users\82109\source\repos\GraduateProject\x64\Release\GraduateProject.exe

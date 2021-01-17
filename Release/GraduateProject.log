@@ -1,0 +1,49 @@
+﻿  main.c
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(35,16): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(35,16): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(36,22): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(36,22): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(37,26): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(37,26): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(38,21): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(38,21): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(39,16): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(39,16): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(40,23): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(40,23): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(43,40): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(43,40): warning C4024: 'FileOpen': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(44,40): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(44,40): warning C4024: 'FileOpen': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(45,40): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(45,40): warning C4024: 'FileOpen': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(46,40): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(46,40): warning C4024: 'FileOpen': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(56,35): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [4][10]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(56,35): warning C4024: 'CreateLargeT': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(56,43): warning C4047: '함수': 'Word **'의 간접 참조 수준이 'Word [128][128]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(56,43): warning C4024: 'CreateLargeT': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(58,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(65,17): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(65,17): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(103,25): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'Pair [128][128]'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(103,25): warning C4024: 'send': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(129,28): warning C4133: '함수': 'Word [4]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(148,18): warning C4013: 'AES_ECB_Encrypt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(157,19): warning C4013: 'AES_ECB_Decrypt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(166,27): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(166,27): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(167,18): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(167,18): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(168,17): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(168,17): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(169,17): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(169,17): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(87,29): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\82109\source\repos\GraduateProject\GraduateProject\main.c(6,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  1 of 29 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  GraduateProject.vcxproj -> C:\Users\82109\source\repos\GraduateProject\Release\GraduateProject.exe
